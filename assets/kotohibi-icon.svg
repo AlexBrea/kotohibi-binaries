@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <title>Kotohibi</title>
+  <!-- Speech bubble -->
+  <path
+    d="M53 36 H187
+       C200 36 210 46 210 59
+       V155
+       C210 168 200 178 187 178
+       H108
+       L67 211
+       V178
+       H53
+       C40 178 30 168 30 155
+       V59
+       C30 46 40 36 53 36 Z"
+    fill="#172B4D"
+  />
+  <!-- Audio waveform -->
+  <rect x="69" y="94" width="16" height="40" rx="8" fill="#FFFFFF" />
+  <rect x="98" y="71" width="16" height="86" rx="8" fill="#FFFFFF" />
+  <rect x="127" y="83" width="16" height="62" rx="8" fill="#FF7468" />
+  <rect x="156" y="101" width="16" height="26" rx="8" fill="#FFFFFF" />
+</svg>
